@@ -180,6 +180,12 @@ var hacktobermap = [
     longitude: -87.629799
   },
   {
+    name: "Sylvain",
+    location: "Lausanne",
+    latitude: 46.516000,
+    longitude: 6.632820
+  },
+  {
     name: "MNTM",
     location: "Ward Hunt Island",
     latitude: 83.113003,
